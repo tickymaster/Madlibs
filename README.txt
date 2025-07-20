@@ -12,7 +12,6 @@ This is a terminal-based implementation of a classic Madlibs game, written in C+
 
 ## Highlights
 
-- Clean modular C++ code
 - Built with CMake (cross-platform)
 - Easily extendable with new stories via text files
 - Token recognition supports natural-language punctuation (`<verb>.`, `<noun>,`, etc.)
