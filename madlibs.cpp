@@ -13,7 +13,7 @@ void file_loader(const size_t file_ID, std::string& contents);
 std::string strip_punctuation(const std::string& word);
 
 int main(){
-        return story_main() == EXIT_SUCCESS ? EXIT_SUCCESS : EXIT_FAILURE;        
+        return story_main();    
 }
 
 int story_main(){
